@@ -1,9 +1,12 @@
 # CogniCoach
 
 AI Learning Companion
+
+
 An intelligent tutoring system powered by Google's Gemini AI that provides personalized learning experiences in Mathematics, Physics, and Chemistry.
 
 Features
+
 Intelligent Tutoring: Get personalized help from AI tutors specialized in Math, Physics, and Chemistry
 Multi-language Support: Learn in your preferred language with support for English, Spanish, French, German, Chinese, Hindi, Arabic, and Russian
 Voice Responses: Listen to AI explanations with text-to-speech support
