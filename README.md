@@ -1,6 +1,6 @@
 # CogniCoach
 
-# AI Learning Companion
+## AI Learning Companion
 
 An **intelligent tutoring system** powered by Google's **Gemini AI** that provides **personalized learning experiences** in Mathematics, Physics, and Chemistry.
 
