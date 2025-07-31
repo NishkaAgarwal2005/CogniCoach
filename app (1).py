@@ -12,7 +12,7 @@ from student_manager import StudentManager
 from study_planner import StudyPlanner, generate_study_schedule
 
 
-# Initialize services
+# Initialize services (important)
 @st.cache_resource
 def init_services():
     return AITutorService(), StudentManager()
